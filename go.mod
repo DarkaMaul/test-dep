@@ -8,4 +8,4 @@ require (
     github.com/sigstore/timestamp-authority v1.2.3
 )
 
-replace github.com/sigstore/timestamp-authority => github.com/sigstore/timestamp-authority
+replace github.com/sigstore/timestamp-authority => ./mod
