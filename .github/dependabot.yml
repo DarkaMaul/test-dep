@@ -2,7 +2,7 @@ version: 2
 
 updates:
   - package-ecosystem: gomod
-    directory: "/.github"
+    directory: "/"
     schedule:
       interval: daily
     open-pull-requests-limit: 1
