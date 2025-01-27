@@ -7,3 +7,5 @@ require (
     // and this will automatically update the dependency when needed.
     github.com/sigstore/timestamp-authority v1.2.3
 )
+
+replace github.com/sigstore/timestamp-authority => github.com/sigstore/timestamp-authority
